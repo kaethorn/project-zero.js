@@ -30,9 +30,15 @@ Now navigate to 0.0.0.0:3000
 
 ## Extend
 
-Add Backbone views to `app/controllers`
-Add Backbone models to `app/models`
-Add Backbone collections to `app/collections`
+Store all coffeescript files in `assets/js`. For example as follows:
+
+* Views in `assets/js/views`
+* Models in `assets/js/models`
+* Collections in `assets/js/collections`
+
+Stylesheets (CSS, LESS) are expected to be in `assets/css`.
+
+HAML-Coffee templates (.hamlc) are expected to be in `templates`.
 
 ## Components
 ### Backend
