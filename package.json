@@ -1,0 +1,15 @@
+{ "name"         : "project-zero.js" 
+, "description"  : "A project skeletton for your JS application"
+, "version"      : "0.0.1"
+, "dependencies" :
+  { "express"          : ">=3.1.0"
+  , "express-partials" : ">=0.0.6"
+  , "coffee-script"    : "*"
+  , "haml-coffee"      : ">=1.4.0"
+  , "connect-assets"   : "*"
+  }  
+, "repository" :
+  { "type" : "git"
+  , "url"  : "git://github.com/kaethorn/project-zero.js.git"
+  }
+}

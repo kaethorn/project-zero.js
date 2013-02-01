@@ -1,0 +1,7 @@
+!!!
+%head
+  %title Express App
+  != js('vendor/jquery.min')
+  != js('controller/test')
+  %body
+    != @body

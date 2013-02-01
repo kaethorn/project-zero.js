@@ -1,0 +1,3 @@
+%h1= "Welcome #{ @name }"
+%p You've rendered your first Haml Coffee view.
+%p.assets If you're reading this, test.coffee has not been loaded. Check connect-assets' setup.
